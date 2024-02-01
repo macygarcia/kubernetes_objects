@@ -1,0 +1,1 @@
+Kubernets objects exercise
